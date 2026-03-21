@@ -1,15 +1,16 @@
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=BIENVENIDO&fontSize=70&animation=twinkling&fontColor=ffffff" width="100%" />
-
-  <br/>
-
-  <a href="https://tu-enlace-aqui.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF3E3E&center=true&vCenter=true&width=435&lines=--+HACER+CLICK+AQUÍ+--;--+VER+MI+PORTAFOLIO+--" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <img src="https://i.imgur.com/dJ7pE6D.png" width="100%" />
-
-</div>
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .pulsate {
+      animation: pulse 1.5s infinite;
+      fill: #238636;
+      cursor: pointer;
+    }
+    @keyframes pulse {
+      0% { opacity: 1; }
+      50% { opacity: 0.5; }
+      100% { opacity: 1; }
+    }
+  </style>
+  <rect class="pulsate" width="200" height="60" rx="10" />
+  <text x="50%" y="50%" font-family="Arial" font-size="20" fill="white" text-anchor="middle" dy=".3em">CONTACTAR</text>
+</svg>
