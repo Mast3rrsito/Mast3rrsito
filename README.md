@@ -1,52 +1,29 @@
-<p align="center">
- <img width="100px" src="(https://avatars.githubusercontent.com/u/241382717?v=4)" />
- <h2 align="center">Profile</h2>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=¡Hola,%20soy%20tu%20nombre!&fontSize=70&animation=fadeIn" width="100%" />
 
-### Hi there 👋 I am [Mast3rr](https://github.com/Mast3rrsito)
+  <br/>
 
-<a href="https://www.linkedin.com/in/apurv-shah/">
-  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/apurvshah123/">
-  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://medium.com/@apurvshah2604">
-  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
-</a>
-<br />
-<br />
+  <h1> 👨‍💻 Full Stack Developer </h1>
 
-<div>
- <p>
+  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 
+  <hr />
 
-</h4>
+  <h3> 🛠️ Stack Tecnológico </h3>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  </p>
+
+  <br/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-<div><p>My profile overview: </p></div>
-
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
-<br />
-<br />
-<br />
-<details>
-<summary>
-  Projects I am currently working on
-</summary>
-
-<br />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
-
-<br />
-
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-</details>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
-
